@@ -1,0 +1,15 @@
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.csproj.AssemblyReference.cache
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.AssemblyInfoInputs.cache
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.AssemblyInfo.cs
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.csproj.CoreCompileInputs.cache
+C:\Users\BSM9819\Desktop\rcursive\bin\Debug\net6.0\rcursive.exe
+C:\Users\BSM9819\Desktop\rcursive\bin\Debug\net6.0\rcursive.deps.json
+C:\Users\BSM9819\Desktop\rcursive\bin\Debug\net6.0\rcursive.runtimeconfig.json
+C:\Users\BSM9819\Desktop\rcursive\bin\Debug\net6.0\rcursive.dll
+C:\Users\BSM9819\Desktop\rcursive\bin\Debug\net6.0\rcursive.pdb
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.dll
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\refint\rcursive.dll
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.pdb
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\rcursive.genruntimeconfig.cache
+C:\Users\BSM9819\Desktop\rcursive\obj\Debug\net6.0\ref\rcursive.dll
